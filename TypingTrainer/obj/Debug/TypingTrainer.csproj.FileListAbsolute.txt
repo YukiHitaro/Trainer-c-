@@ -1,0 +1,16 @@
+C:\Users\TurTle\Desktop\TypingTrainer\bin\Debug\TypingTrainer.exe.config
+C:\Users\TurTle\Desktop\TypingTrainer\bin\Debug\TypingTrainer.exe
+C:\Users\TurTle\Desktop\TypingTrainer\bin\Debug\TypingTrainer.pdb
+C:\Users\TurTle\Desktop\TypingTrainer\obj\Debug\TypingTrainer.csproj.AssemblyReference.cache
+C:\Users\TurTle\Desktop\TypingTrainer\obj\Debug\MainWindow.g.cs
+C:\Users\TurTle\Desktop\TypingTrainer\obj\Debug\App.g.cs
+C:\Users\TurTle\Desktop\TypingTrainer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\TurTle\Desktop\TypingTrainer\obj\Debug\TypingTrainer_MarkupCompile.cache
+C:\Users\TurTle\Desktop\TypingTrainer\obj\Debug\TypingTrainer_MarkupCompile.lref
+C:\Users\TurTle\Desktop\TypingTrainer\obj\Debug\MainWindow.baml
+C:\Users\TurTle\Desktop\TypingTrainer\obj\Debug\TypingTrainer.g.resources
+C:\Users\TurTle\Desktop\TypingTrainer\obj\Debug\TypingTrainer.Properties.Resources.resources
+C:\Users\TurTle\Desktop\TypingTrainer\obj\Debug\TypingTrainer.csproj.GenerateResource.cache
+C:\Users\TurTle\Desktop\TypingTrainer\obj\Debug\TypingTrainer.csproj.CoreCompileInputs.cache
+C:\Users\TurTle\Desktop\TypingTrainer\obj\Debug\TypingTrainer.exe
+C:\Users\TurTle\Desktop\TypingTrainer\obj\Debug\TypingTrainer.pdb
